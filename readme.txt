@@ -12,6 +12,8 @@ Add Wordpress russian language fixes.
 == Description ==
 [Описание плагина на русском языке](http://www.compnot.ru/wordpress/dco-russian-fixes-korrektiruem-russkij-wordpress.html "Страница плагина на русском языке")
 
+[GitHub](https://github.com/Denis-co/DCO-Russian-Fixes "GitHub plugin repository")
+
 DCO Russian Fixes is a Wordpress plugin is intended for:
 
 * transliteration permanent links
@@ -54,8 +56,6 @@ Filter for override standard correct archive titles table
 **dco_rf_correct_archive_titles**
 
 Filter for change correct archive titles results
-
-[GitHub](https://github.com/Denis-co/DCO-Russian-Fixes "GitHub plugin repository")
 
 == Installation ==
 1. Upload `dco-russian-fixes` folder to the `/wp-content/plugins/` directory
